@@ -1,8 +1,8 @@
 /* ============================================================
     [Mastering JavaScript]
 
-    Theme Name  : HavioTop        
-    Description : HavioTop - Online Recharge & Payment Platform.
+    Theme Name  : Peyraba        
+    Description : Peyraba - Online Recharge & Payment Platform.
     Author      : coUI         
     Author URL  : https://themeforest.net/user/coui  
     Version     : 1.0.1
